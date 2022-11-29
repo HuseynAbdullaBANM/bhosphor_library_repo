@@ -1,0 +1,80 @@
+{
+  "projectName": "University-Library-Management-System",
+  "projectOwner": "IQ9999999",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "IQ9999999",
+      "name": "IQ9999999",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52337440?v=4",
+      "profile": "https://github.com/IQ9999999",
+      "contributions": [
+        "code",
+        "doc",
+        "ideas",
+        "infra"
+      ]
+    },
+    {
+      "login": "lwleo02",
+      "name": "lwleo02",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86616877?v=4",
+      "profile": "https://github.com/lwleo02",
+      "contributions": [
+        "question",
+        "code",
+        "data",
+        "doc",
+        "ideas",
+        "review"
+      ]
+    },
+    {
+      "login": "yuanjie8629",
+      "name": "Tan Yuan Jie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86699785?v=4",
+      "profile": "https://github.com/yuanjie8629",
+      "contributions": [
+        "bug",
+        "code",
+        "doc",
+        "ideas",
+        "test",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "Kai411",
+      "name": "kaii411",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51218403?v=4",
+      "profile": "https://github.com/Kai411",
+      "contributions": [
+        "code",
+        "design",
+        "doc",
+        "ideas",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "kacoccc",
+      "name": "kacoccc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65219841?v=4",
+      "profile": "https://github.com/kacoccc",
+      "contributions": [
+        "code",
+        "doc",
+        "ideas",
+        "userTesting"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
